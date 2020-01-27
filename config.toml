@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "GrippingGolf Podcast"
-baseURL = "http://localhost:1313/"
+baseURL = ""
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
