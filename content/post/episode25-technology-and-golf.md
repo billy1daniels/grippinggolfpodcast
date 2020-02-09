@@ -3,7 +3,7 @@ title = 'Episode 25'
 slug = 'episode-25-technology-and-golf'
 image = 'images/pic03.jpg'
 date = "2020-01-31T00:00:00"
-description = 'Luke Rinehart, Software Quality Analyst from Gramin joins the show. As with anything, technology is changing the landscape in golf. From launch monitors to wearables, golfers have access to more data than ever before. Is this helping or hurting the novice and professional golfers. '
+description = 'Luke Rinehart, Software Quality Analyst from Garmin joins the show. As with anything, technology is changing the landscape in golf. From launch monitors to wearables, golfers have access to more data than ever before. Is this helping or hurting the novice and professional golfers. '
 disableComments = true
 +++
 
