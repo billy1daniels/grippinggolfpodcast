@@ -13,16 +13,16 @@ On this episode of GrippingGolf, TJ Sullivan of GOLFTEC in Oak Brook, IL joins t
 
 ## Services Provided at GOLFTEC Oak Brook
 
-# Lessons and Game Plans
+### Lessons and Game Plans
 A variety of golf lessons and Game Plans are available at GOLFTEC Oak Brook, including In-Bay, On-Course, Short Game and Putting lessons. With a Game Plan, you receive sequential lessons that build on each milestone to build a better swing that can be comfortably repeated on the golf course.
 
-# Video Practice
+### Video Practice
 Every Training Bay at GOLFTEC Oak Brook includes interactive video, letting you see immediate replay of each swing from two directions simultaneously. This resource makes your practice sessions more productive and your improvement faster!
 
-# GOLFTEC'S CLUBHOUSE
+### GOLFTEC'S CLUBHOUSE
 The GOLFTEC CLUBHOUSE is where students can access their golf lessons, coach notes, instructional content and schedule 24/7. Enjoy a completely new scheduling system, golf content, access to an archive of your past lessons, easier referral process and more! Take your golf improvement beyond the bay with CLUBHOUSE!
 
-# TECFIT Custom Club Fitting
+### TECFIT Custom Club Fitting
 TECFIT, GOLFTEC's tour-level club fitting system, provides a precise, unbiased fitting experience with our experienced and certified professionals in Oak Brook, Illinois. The confidence gained by using properly fit equipment is another key to your golf success.
 
 For more on GOLFTEC Oak Brook visit their website by [Clicking Here](https://www.golftec.com/golf-lessons/chicago/oak-brook)
