@@ -13,4 +13,4 @@ disableComments = true
 ## Swope Memorial Golf Course
 Designed in 1934 by legendary architect A.W. Tillinghast, Swope Memorial Golf Course was once the home of the PGA Tour's Kansas City Open (1949), making it the only public course in the area to have hosted a PGA Tour event. Carved out of the wooded land in Swope Park, this tight layout, along with its undulated fairways and multi-tiered greens, provides a true test of golf; one that legends Ben Hogan and Sam Snead have been challenged by. Skyline views of downtown, accompanied by the roars of lions from the K.C. Zoo below, give this course character that is unmatched anywhere in the city. Come out and experience what people consider the best value in K.C.!
 
-For more on Evolution CBD visit their website by [Clicking Here](https://www.swopememorialgolfcourse.com/)
+For more on Swope Memorial Golf Course visit their website by [Clicking Here](https://www.swopememorialgolfcourse.com/)
