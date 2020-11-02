@@ -3,7 +3,7 @@ title = 'Episode 35'
 slug = 'episode-35-tj-sullivan-master-pga-professional'
 image = 'images/pic03.jpg'
 date = "2020-09-22T00:00:00"
-description = "Billy and Daniel are joined by T.J. Sullivan of GOLFTECT in Oak Brook, IL."
+description = "Billy and Daniel are joined by T.J. Sullivan of GOLFTEC in Oak Brook, IL."
 disableComments = true
 +++
 
