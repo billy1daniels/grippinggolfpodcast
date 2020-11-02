@@ -9,7 +9,6 @@ disableComments = true
 
 {{< audio "https://widget.spreaker.com/player?episode_id=41161952&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" >}}
 
-On this episode of GrippingGolf, Daniel and Billy get back in the studio together. Listen in and hear what they've been doing and what they think will happen in the US Open at Winged Foot.
 
 ## Flight Golf Academy of Kansas City
 
