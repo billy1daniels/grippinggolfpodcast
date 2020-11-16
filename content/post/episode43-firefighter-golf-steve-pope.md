@@ -2,7 +2,7 @@
 title = 'Episode 43'
 slug = 'episode-43-firefighter-golf-steve-pope'
 image = 'images/pic03.jpg'
-date = "2020-11-12T00:00:00"
+date = "2020-11-16T00:00:00"
 description = "On this episode, Steve Pope, aka Firefighter Golf. Steve’s mission is to help bring awareness to firefighter PTS(post traumatic stress).  In January of 2020 Steve started a YouTube channel called Firefighter Golf, his hope is the channel is to play golf with firefighters and share their stories. Steve has been a Firefighter for the Kansas City, Kansas Fire Department for 23 years and the Merriam Fire Department for 1 year is an avid golfer, a 2 handicap, and has a passion to bring awareness to first responders suffering from PTS or PTSD. Please welcome to the show Steve Pope."
 disableComments = true
 +++
