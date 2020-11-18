@@ -21,5 +21,5 @@ We wanted a name that would separate us from all other instruction as well as a 
 
 Our vision initially was to create something that was less regional so that when we start expanding beyond our current location the transition would be less complicated.  Further more, in the world of changing golf retailers and club companies our role within the golf industry has yet to be defined. We are excited to find out what opportunities await us! 
 
-For more on Imperial Golf visit their their YouTube by [Clicking Here](https://www.imperialgolfkc.com/)
+For more on Imperial Golf visit their website by [Clicking Here](https://www.imperialgolfkc.com/)
 
