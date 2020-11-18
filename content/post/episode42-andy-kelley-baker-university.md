@@ -36,3 +36,5 @@ The Wildcats had unprecedented success in those three seasons, as they posted a 
 Baker was honored with several individual awards as well on the hardwood, including four NAIA All-Americans, 10 Heart All-Conference award winners, as well as Heart Defensive Player of the Year and Heart Player of the Year.
 
 For more on Baker Athletics visit their website by [Clicking Here](https://www.bakerwildcats.com/index.php)
+
+{{< youtube efIlK8LkEiw >}}
