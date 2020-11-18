@@ -1,6 +1,6 @@
 +++
 title = 'Episode 44'
-slug = 'episode-44-firefighter-golf-steve-pope'
+slug = 'episode-44-imperial-golf-is-back'
 image = 'images/pic03.jpg'
 date = "2020-11-18T00:00:00"
 description = "On this episode of GrippingGolf, Imperial Golf. Imperial golf was started in 2013 and has earned a stellar reputation for eye opening golf instruction. Renovating their facility in February, 2017 to create a one of a kind purpose built facility that encompass' all aspects of the game of golf to further benefit their students and help mold a better game tee to green.  Please welcome to the show Jon and J.T. of Imperial Golf."
