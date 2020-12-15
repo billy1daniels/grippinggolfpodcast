@@ -12,11 +12,11 @@ disableComments = true
 
 ## Nelson Hill
 
-Nelson Hill was created to encapsulate the artistic nature of the game through both design and craftsmanship. With deep attention to detail alongside legacy worthy materials, we aim to create exceptional golf goods with utility and quality for the every day.
+Nelson Hill was created to encapsulate the artistic nature of the game through both design and craftsmanship. With deep attention to detail alongside legacy worthy materials, they aim to create exceptional golf goods with utility and quality for the every day.
 
-While our products are highly functional and express a unique individuality, it's not just about better golf products — it's about a better experience. A big part of the Nelson Hill experience is the community. By making our products in small batches, it ensures that our community has a voice in what comes next. 
+While their products are highly functional and express a unique individuality, it's not just about better golf products — it's about a better experience. A big part of the Nelson Hill experience is the community. By making their products in small batches, it ensures that their community has a voice in what comes next. 
 
-We’re excited to continue making products for the generations to come. All of our offerings, both current and future, utilize long, labor-intensive processes to ensure that when you see your gear, you know you have something special.
+They're excited to continue making products for the generations to come. All of their offerings, both current and future, utilize long, labor-intensive processes to ensure that when you see your gear, you know you have something special.
 
 For more on Nelson Hill visit their website by [Clicking Here](https://www.nelsonhill.co/)
 
