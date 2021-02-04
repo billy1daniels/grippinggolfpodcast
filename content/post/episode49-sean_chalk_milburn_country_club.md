@@ -3,8 +3,7 @@ title = 'Episode 49'
 slug = 'episode-49-sean-chalk-milburn-country-club'
 image = 'images/pic03.jpg'
 date = "2021-02-03T00:00:00"
-description = "On this episode, My guest today is Sean Chalk of Milburn Country Club in Overland Park, KS. Sean has an extensive background in public golf operations and has made the leap to the private side. Sean and I both got our start in golf at the Overland Park Golf Course now known as Sykes/Lady.  Please welcome to the show Sean Chalk.
-"
+description = "On this episode, My guest today is Sean Chalk of Milburn Country Club in Overland Park, KS. Sean has an extensive background in public golf operations and has made the leap to the private side. Sean and I both got our start in golf at the Overland Park Golf Course now known as Sykes/Lady. Please welcome to the show Sean Chalk."
 disableComments = true
 +++
 
