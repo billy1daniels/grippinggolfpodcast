@@ -10,6 +10,9 @@ disableComments = true
 {{< audio "https://widget.spreaker.com/player?episode_id=43333403&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" >}}
 
 
+{{< youtube y9EOu2XZg3w >}}
+
+
 ## Borgmann Rehab Solutions
 
 Former NFL Physical Therapist and Athletic Trainer, and Borgmann Rehab Solutions Founder, Aaron Borgmann spent years putting injured players back together and back onto the field.
