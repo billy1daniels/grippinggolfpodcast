@@ -3,7 +3,7 @@ title = 'Episode 51'
 slug = 'episode-51-maureen-farrell-coach-mo'
 image = 'images/pic03.jpg'
 date = "2021-02-10T00:00:00"
-description = "On this episode, Maureen Farrell aka Coach Mo. Maureen is the Director of Instruction at Sykes/Lady and St. Andrews Golf Courses in Overland Park, KS. If you’re looking for someone who loves the game of golf, lives and game of golf and truly wants to help people learn the game of golf then Coach Mo is your destination.  Please welcome to GrippingGolf Podcast Maureen Farrell aka Coach Mo."
+description = "On this episode, Maureen Farrell aka Coach Mo. Maureen is the Director of Instruction at Sykes/Lady and St. Andrews Golf Courses in Overland Park, KS. If you’re looking for someone who loves the game of golf, lives the game of golf and truly wants to help people learn the game of golf then Coach Mo is your destination.  Please welcome to GrippingGolf Podcast Maureen Farrell aka Coach Mo."
 disableComments = true
 +++
 
