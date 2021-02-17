@@ -3,8 +3,7 @@ title = 'Episode 52'
 slug = 'episode-52-stripe-golf-co'
 image = 'images/pic03.jpg'
 date = "2021-02-17T00:00:00"
-description = "On this episode, Stripe Golf Co.™. Stripe Golf Co.™ is a golf and lifestyle brand, started by Nick, Gil and Ross in Kansas City. They know first hand that golfers are an envious bunch and always want the coolest, most up to date gear. With that in mind, it is their goal to deliver premium style and comfort on and off the course. “Look good, play good,” has never been more true. ​Stripe Golf Co is Made by golfers for golfers.
-​Please welcome to the show Gil, Ross and Nick of Stripe Golf Co."
+description = "On this episode, Stripe Golf Co.™. Stripe Golf Co.™ is a golf and lifestyle brand, started by Nick, Gil and Ross in Kansas City. They know first hand that golfers are an envious bunch and always want the coolest, most up to date gear. With that in mind, it is their goal to deliver premium style and comfort on and off the course. “Look good, play good,” has never been more true. ​Stripe Golf Co is Made by golfers for golfers. Please welcome to the show Gil, Ross and Nick of Stripe Golf Co."
 disableComments = true
 +++
 
