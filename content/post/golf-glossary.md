@@ -12,105 +12,103 @@ disableComments = true
 ### 19th hole
 The clubhouse bar.
 
-Ace
+### Ace
 When a player hits the ball directly from the tee into the hole with one stroke. Also called a hole in one.
-Address
+### Address
 The act of taking a stance and placing the club-head behind the ball. If the ball moves once a player has addressed the ball, there is a one-stroke penalty, unless it is clear that the act of the player did not cause the ball to move on purpose. If the player addresses the ball and places the head of the club behind it and in doing this causes the ball to move, a one shot penalty does not occur in this case.
-Aggregate
+### Aggregate
 Refers to a score made over more than one round of play, or by two or more players playing as partners.
-Aim
+### Aim
 Generally, the direction in which your target lies and the direction you intend for your ball to go.
-Air shot
+### Air shot
 A shot where the player addresses the balls, swings, and completely misses the golf-ball. An air shot is counted as a stroke. See also whiff.
-Albatross
+### Albatross
 A hole played three strokes under par. Also called a double eagle.
-Alignment
+### Alignment
 The position of a player's body relative to the target line of the ball.
-All square (AS)
+### All square (AS)
 In match play, a match is all square (tied) when both players or teams have won the same number of holes.
-Ambrose
+### Ambrose
 A system of team play whereby each player takes a tee shot, after which the most favorable ball position is chosen. All the team's players then take a shot from this new position, and so on. (Also known as a Texas Scramble)
-Angle of approach
+### Angle of approach
 The angle at which the club head strikes the ball. This affects the trajectory the ball will travel and spin.
-Approach shot
+### Approach shot
 A shot intended to land the ball on the green.
-Apron
+### Apron
 The grass surface on the perimeter of the green that separates it from the surrounding fairway or rough. Also known as frog-hair, or fringe.
-Artisan
+### Artisan
 A class of membership of a golf club with restricted rights at a low cost. Historically, many British golf clubs had small artisan sections, drawn from the working classes. Typically artisan members had limited playing rights, could not enter the clubhouse, had no vote on the management of the club, played in separate competitions from the main membership and had to perform unpaid maintenance of the course. Often an artisan club was a separate organisation that had negotiated use of a course with a private members club. Some artisan organisations have survived to this day.
-Attend (the flag-stick)
+### Attend (the flag-stick)
 When a player holds and removes the flag-stick for another player.
-Away
+### Away
 Describing the golfer whose ball is farthest from the hole. The player who is away should always play first.
-
-Back nine
+### Back nine
 The last nine holes of an 18-hole golf course. Playing the back nine is called "heading in".
-Backspin
+### Backspin
 A backwards spin that occurs when a player strikes the golf-ball. The spin causes the ball to stop quickly or spin backwards after landing on the green.
-Back-swing
+### Back-swing
 The first part of the golf-swing. The back-swing starts with the club-head immediately behind the ball and ends when the club-head travels back behind the player's head. The term take-away refers to the first part of the back-swing.
-Ball
+### Ball
 A small sphere used in playing golf, which is intended to be struck by a player swinging a club. Balls are usually white, covered in dimples, and made of a variety of materials.
-Ball-marker
+### Ball-marker
 A token or a small coin used to spot the ball's position on the green prior to lifting it.
-Ball-washer
+### Ball-washer
 A device found on many tees for cleaning golf balls.
-Banana-ball
+### Banana-ball
 The result of a severe slice that results in a trajectory in the shape of a banana. This is also referred to as an extreme slice.
-Bandit
+### Bandit
 See Sandbagger.
-Bare Lie
+### Bare Lie
 When the ball lies directly on hard ground without any grass to buoy the ball up, (i.e.), where there is no grass creating a gap between ball and the ground. Applicable when practicing off hard mats.
-Best ball
+### Best ball
 A form of team play using two-, three-, or four-person teams. The team score on each hole is the lowest score obtained by one of the team members. For example, if player A has a 5, player B has a 6, player C has a 4, and player D has a 5, the "best ball" and team score is a 4.
-Biarritz
+### Biarritz
 A hole whose green incorporates a deep gulley that effectively splits the putting surface in two. Named after a famous example at "Le Phare Golf Club" in Biarritz, France. This original par-3 3d hole by the ocean is long built over.
-Bifurcation
+### Bifurcation
 A proposal currently (as of 2021) under consideration by the sport's rulemaking bodies, The R&A and the USGA, to create separate rules for competitive and recreational play, mostly but not entirely relating to allowed equipment.
-BIGGA
+### BIGGA
 Is the professional association in the United Kingdom dealing with all matters of golf management from a greens-keeper's viewpoint. For the U.S. equivalent, see GCSAA.
-Birdie
+### Birdie
 A hole played in one stroke under par.
-Bisque
+### Bisque
 A form of handicapping used in private match play games. The higher handicapped player is allowed to choose on which holes they receive their handicap allowance of "free shots". As this is a matter of negotiation between the players involved there are many variations in the number of shots allowed and when (before the start of the round, before playing a hole, during the play of a hole, after playing a hole) the claiming of "free shot" is allowed. Bisque matches are not recognized by the rules of golf.
-Bite
+### Bite
 Some players put a great deal of spin on their approach shots causing the ball to stop immediately when it hits the green. This phenomenon is referred to as biting or checking. Depending on the amount of backspin, the ball may stop advancing forward and roll back towards the player after landing. The amount of backspin imparted on the ball is greatly influenced by the ball material, quality of contact with the face of the club, and course conditions.
-Blade
+### Blade
 (i) A type of iron where the weight is distributed evenly across the back of the club-head as opposed to mainly around the perimeter (see cavity back).
 (ii) A type of putter with a striking face considerably wider than the distance from the face to the rear of the club-head.
 (iii) a shot struck "thinly" with the bottom of an iron striking high up on the golf ball, causing a low trajectory shot with a lack of control.
-Blast
+### Blast
 A bunker shot that sends the ball, and accompanying sand, (hopefully) onto the green. Also known as an explosion.
-Blind
+### Blind
 A shot that does not allow the golfer to see where the ball will land, such as onto an elevated green from below.
-Block
+### Block
 A shot played severely to the right; Similar to the push.
-Bogey
+### Bogey
 A hole played one stroke over par.
-Bogey golfer
+### Bogey golfer
 A player whose handicap is in the range 20 to 24.
-Borrow
+### Borrow
 See break.
-Bounce
+### Bounce
 The measurement of the angle from the front edge of a club's sole to the point that rests on the ground when addressing the ball. In discussing wedges, bounce describes a sole angle where the back edge of the sole is lower than the front edge, keeping them from digging too deep in sand or being stopped by tall grass.
-Bounce Back
+### Bounce Back
 Scoring a birdie or better on a hole immediately following a bogey or worse. Also see Reverse Bounce Back.
-Break
+### Break
 The tendency of a putted ball to roll left or right of a straight line. This deviation may be a result of a number of factors or combination of factors including uneven surface, grain of the grass, how firmly the putt is struck or, in extreme circumstances, wind. In the United Kingdom, it is also known as borrow.
-Bullarding
+### Bullarding
 Playing consistently above your regular handicap or regularly failing to achieve in competition play. It is the opposite of sandbagging.
-Bump and run
+### Bump and run
 A low-trajectory shot that is intended to get the ball rolling along the fairway and up onto the green. Similar to a chip shot, but played from a greater distance.
-Bunker
+### Bunker
 A depression in bare ground that is usually covered with sand. Also called a sand trap. It is considered a hazard under the Rules of Golf.
-Bunker, Green-side
+### Bunker, Green-side
 A bunker next to or even in a green. See bunker.
-Bunker, Fairway
+### Bunker, Fairway
 A bunker located on or in the fairway. See bunker.
-Bye
+### Bye
 A short game played over the remaining holes when the main match finishes early because one player or team has won by a large margin. It serves the joint purpose of adding some competitive meaning to the rest of the holes and also for the losing side to attempt to regain some of the pride lost as a result of their humiliation in the main match. It is usual for the loser of the bye to buy the first drinks in the 19th hole afterwards. In this respect it is an almost direct equivalent to a beer match in cricket.
-
-Caddie or Caddy
+### Caddie or Caddy
 A person, often paid, who carries a player's clubs and offers advice. Players are responsible for the actions of their caddies. Players cannot receive advice from anyone other than their caddie or partner. A Scots form of the French 'Cadet', meaning an assistant or errand-runner.
 Calcutta
 A wager, typically in support of one team to win a tournament. In a Calcutta golfers bid, auction style, on the team (or golfer) who they think will win the tournament (you can bid on your own team or yourself). All the money raised through the auction goes into an auction pool. At the end of the tournament, those who bet on the winning team (or golfer) that won the tournament receives a predetermined payout from the auction pool.
