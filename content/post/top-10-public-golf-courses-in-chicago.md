@@ -10,6 +10,7 @@ disableComments = true
 
 
 ## 1. Prairie Bluff Golf Course
+[19433 Renwick Rd, Lockport, IL 60441](https://goo.gl/maps/654zBpm2ynVaQGk2A)
 
 The golf course at Prairie Bluff features an 18-hole championship designed course decorated with water, prairie grass and manicured bent grass fairways.
 
@@ -18,7 +19,7 @@ Prairie Bluff is 7,007 yards long, but seems much longer covering more than 230 
 Prairie Bluff Golf Club is the perfect location to host your next golf outing. Whether you have a group of 16 or 144, Prairie Bluff Golf Club’s expertly manicured golf course and beautiful clubhouse will not only meet your outing expectations but will exceed them. When you choose Prairie Bluff for your next golf outing, you will work with a staff that is dedicated to making your golf outing an enjoyable and memorable experience.
 
 For more on or for tee times at Prairie Bluff Golf Course visit their website by [Clicking Here](https://www.prairiebluffgc.com/)
-[19433 Renwick Rd, Lockport, IL 60441](https://goo.gl/maps/654zBpm2ynVaQGk2A)
+
 
 ## 2. The Highlands of Elgin Golf Course
 
