@@ -2,8 +2,8 @@
 title = 'Episode 55'
 slug = 'episode-55-gianna-augustine-junior-golf'
 image = 'images/pic03.jpg'
-date = "2021-03-26T00:00:00"
-description = "On this episode, Gianna Augustine. In High School, at St. Thomas Aquinas, Gianna won three individual Kansas State High School Championships. Gianna went on to play collegiate golf at Kansas State University from 2010-2014. While at Kansas State, she competed all four years as the top performer, with the lowest scoring average, and was a member of the traveling team. ​Please welcome to the show Gianna Augustine.
+date = "2021-04-08T00:00:00"
+description = "On this episode, Gianna Augustine. In High School, at St. Thomas Aquinas, Gianna won three individual Kansas State High School Championships. Gianna went on to play collegiate golf at Kansas State University from 2010-2014. While at Kansas State, she competed all four years as the top performer, with the lowest scoring average, and was a member of the traveling team. ​Please welcome to the show Gianna Augustine."
 "
 disableComments = true
 +++
