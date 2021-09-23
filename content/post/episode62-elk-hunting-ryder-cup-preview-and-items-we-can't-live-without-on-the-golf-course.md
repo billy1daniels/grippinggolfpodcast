@@ -1,6 +1,6 @@
 +++
 title = 'Episode 62'
-slug = 'episode-62-elk-hunting-ryder-cup-preview-and-items-we-can't-live-without-on-the-golf-course'
+slug = 'episode-62-elk-hunting-ryder-cup-preview-and-items-on-the-golf-course'
 image = 'images/pic03.jpg'
 date = "2021-09-21T00:00:00"
 description = "On this episode, Dave, John and Billy discuss the 2020 Ryder Cup at Whistling Straights, Billy's epic elk hunting trip and items they can and cannot live without on the golf course."
