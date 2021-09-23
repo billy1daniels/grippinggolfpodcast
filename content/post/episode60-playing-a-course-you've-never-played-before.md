@@ -1,8 +1,8 @@
 +++
-title = 'Episode 59'
-slug = 'episode-59-goals-and-the-mental-side-of-golf'
+title = 'Episode 60'
+slug = 'episode-60-goals-and-the-mental-side-of-golf'
 image = 'images/pic03.jpg'
-date = "2021-08-31T00:00:00"
+date = "2021-09-07T00:00:00"
 description = "On this episode, Dave, John and Billy discuss their approach to playing a course they've never played before. What sort tools do they utilize, how they prepare, and expectations."
 
 disableComments = true
