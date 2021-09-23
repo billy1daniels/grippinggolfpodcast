@@ -1,5 +1,5 @@
 +++
-title = 'Episode 56'
+title = 'Episode 57'
 slug = 'episode-57-gatekeeping-in-golf'
 image = 'images/pic03.jpg'
 date = "2021-08-04T00:00:00"
