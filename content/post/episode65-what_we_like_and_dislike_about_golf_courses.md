@@ -3,7 +3,7 @@ title = 'Episode 65'
 slug = 'episode-65-what_we_like_and_dislike_about_golf_courses'
 image = 'images/pic03.jpg'
 date = "2021-10-05T00:00:00"
-description = "On this episode of GrippingGolf Podcast, Dave Miller, John Johnson and Billy Daniels are joined by the newest member of the GrippingGolf Podcast team, Peter Hansen. Peter brings his "appetite" for the game of golf along with his nonchalant attitude to life to the boys of GrippingGolf Podcast. Billy, John, Dave and Peter discuss characteristics of golf courses they like and dislike, what makes a lasting memory, what keeps them going back or never going back to a golf course."
+description = "On this episode of GrippingGolf Podcast, Dave Miller, John Johnson and Billy Daniels are joined by the newest member of the GrippingGolf Podcast team, Peter Hansen. Peter brings his appetite for the game of golf along with his nonchalant attitude to life to the boys of GrippingGolf Podcast. Billy, John, Dave and Peter discuss characteristics of golf courses they like and dislike, what makes a lasting memory, what keeps them going back or never going back to a golf course."
 
 disableComments = true
 +++
