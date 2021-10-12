@@ -12,3 +12,8 @@ disableComments = true
 
 
 {{< youtube 3z_kcEAq9jI >}}
+
+Listen or Watch [Part 2](https://grippinggolfpodcast.com/post/episode-68_likes_and_dislikes_on_golf_courses/)
+
+
+Hand-crafted and Timeless Leather Golf Products from [Nelson Hill](https://www.nelsonhill.co/)
