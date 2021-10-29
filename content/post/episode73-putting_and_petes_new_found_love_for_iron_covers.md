@@ -1,5 +1,5 @@
 +++
-title = 'Episode 73 - Putting and Pete<code>&#39;</code>s New Found Love for Iron Covers'
+title = "Episode 73 - Putting and Pete's New Found Love for Iron Covers"
 slug = 'episode-73_putting_and_petes_new_found_love_for_iron_covers'
 image = 'images/pic03.jpg'
 date = "2021-10-29T00:00:00"
