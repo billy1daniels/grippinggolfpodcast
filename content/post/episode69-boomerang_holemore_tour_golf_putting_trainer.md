@@ -30,4 +30,6 @@ All our products ship fast and Aussie customers can get them in a few days. For 
 
 Whether you're investing in your stroke today or not, thanks for checking us out and good luck on the greens!!!
 
+Get 20% off at [Boomerang Putting](https://www.boomerangputting.com/) when you use the promo code, "GGSAVE" 
+
 [Buy Now](https://www.boomerangputting.com/)
