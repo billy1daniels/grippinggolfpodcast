@@ -8,11 +8,11 @@ description = "On this episode of GrippingGolf Podcast, Billy, John, Pete and Da
 disableComments = true
 +++
 
-{{< audio "https://widget.spreaker.com/player?episode_id=47392692&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" >}}
+{{< audio "https://widget.spreaker.com/player?episode_id=47420384&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" >}}
 
 </br>
 
-{{< youtube 2BjEQZA3r7M>}}
+{{< youtube 5fLXvV0h0f8>}}
 
 </br>
 
