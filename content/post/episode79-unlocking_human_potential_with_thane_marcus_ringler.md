@@ -28,17 +28,17 @@ Self-Described:  Ultra-competitive, fiercely determined, loyal friend, relationa
 
 The Basics:
 
-Jesus-follower
+- Jesus-follower
 
-Current Home: Denver, CO
+- Current Home: Denver, CO
 
-Education: B.A. Business Admin, Accounting and Finance (The Master's University)
+- Education: B.A. Business Admin, Accounting and Finance (The Master's University)
 
-Former: Pro Golfer (3.5 years)
+- Former: Pro Golfer (3.5 years)
 
-Now: working as a Development Coach, Speaker, Writer, and Podcast Host
+- Now: working as a Development Coach, Speaker, Writer, and Podcast Host
 
-Loves: Fitness/Exercise, Snowboarding, Dancing, Reading, Sports/Games of any kind, and all things Coffee (in no particular order)
+- Loves: Fitness/Exercise, Snowboarding, Dancing, Reading, Sports/Games of any kind, and all things Coffee (in no particular order)
 
 
 ## The 5 Voices
