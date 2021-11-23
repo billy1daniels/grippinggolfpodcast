@@ -18,15 +18,15 @@ disableComments = true
 
 ## Who is Thane Marcus Ringler
 
-Full Name:  Thane Marcus Ringler
+**Full Name:**  Thane Marcus Ringler
 
-Partner For Life:  Evan Ryan Ringler
+**Partner For Life:**  Evan Ryan Ringler
 
-Born and Raised:  Hutchinson, KS
+**Born and Raised:**  Hutchinson, KS
 
-Self-Described:  Ultra-competitive, fiercely determined, loyal friend, relationally driven, internally motivated, always an athlete, adrenaline junkie, lover of learning, disciplined by necessity, extroverted and introverted, passionate and inspired [Up & Comer.](https://www.theupandcomersshow.com/)
+**Self-Described:**  Ultra-competitive, fiercely determined, loyal friend, relationally driven, internally motivated, always an athlete, adrenaline junkie, lover of learning, disciplined by necessity, extroverted and introverted, passionate and inspired [Up & Comer.](https://www.theupandcomersshow.com/)
 
-The Basics:
+**The Basics:**
 
 - Jesus-follower
 
