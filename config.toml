@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "GrippingGolf Podcast"
+title = "Gripping Golf Podcast"
 baseURL = ""
 theme = "hugo-theme-massively"
 googleanalytics = "UA-157011848-1"
