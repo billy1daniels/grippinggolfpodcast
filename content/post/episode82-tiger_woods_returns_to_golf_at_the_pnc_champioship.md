@@ -1,7 +1,7 @@
 +++
 title = 'Episode 82 - Tiger Woods Returns to Golf at the PNC Championship'
 slug = 'episode-82_tiger_woods_returns_to_golf_at_the_pnc_champioship'
-image = 'images/pic03.jpg'
+image = 'images/YouTube-Episode-82-Thumbnail.jpg'
 date = "2021-12-14T00:00:00"
 description = "On this episode of Gripping Golf Podcast, John, Dave, Pete and Billy discuss the return of Tiger Woods to competitive golf at the PNC Championship. Tiger will make his return to golf after suffer a severely broken leg nearly 10 months ago in California. Tiger will play along side his son Charlie Woods, 12 years old, and storming up the junior amateur ranks."
 
