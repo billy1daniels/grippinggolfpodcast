@@ -16,6 +16,10 @@ disableComments = true
 
 </br>
 
+# PNC Championship
+
+For more information on the PNC Championship, visit [www.pncchampionship.com](https://www.pncchampionship.com/)
+
 For 20% off at Boomerang Putting use the promo code, "GRIPSAVE" at [Buy Now](https://www.boomerangputting.com/)
 
 Get 10% off Hand-crafted and Timeless Leather Golf Products from [Nelson Hill](https://www.nelsonhill.co/) when you use the promo code, "GRIPPINGGOLF"
