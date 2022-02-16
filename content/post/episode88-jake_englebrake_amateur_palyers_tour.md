@@ -2,7 +2,7 @@
 title = "Episode 88 - Jake Englebrake from Amateur Players Tour"
 slug = 'episode-88_jake_englebrake_amateur_players_tour'
 image = 'images/YouTube-Episode-82-Thumbnail.jpg'
-date = "2022-02-17T00:00:00"
+date = "2022-01-17T00:00:00"
 description = "On this episode of Gripping Golf Podcast, Dave and Billy are joined by Jake Englebrake from The Kansas City Amateur Players Tour. Jake's love of the game is shown through his commitment at Amateur Players Tour. In its first year, the Amateur Players Tour sold majority of their tournaments out in the Kansas City metro area, we expect nothing different in 2022."
 
 disableComments = true
