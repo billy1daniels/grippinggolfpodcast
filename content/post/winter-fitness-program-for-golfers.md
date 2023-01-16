@@ -8,7 +8,6 @@ disableComments = true
 +++
 
 
-As the temperatures drop and snow begins to fall, many golfers put their clubs away for the winter. But just because the golf course is closed doesn't mean you should be too. In fact, winter is the perfect time to focus on strength training and conditioning to improve your game come spring, and avoid the Winter is Coming excuse.
 
 Golfers often face common problems like back pain, lack of distance, and inconsistent shots. This workout program is designed to target those specific areas and help golfers overcome those struggles.
 
