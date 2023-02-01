@@ -8,20 +8,18 @@ disableComments = true
 +++
 
 
-<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdnX3gQaf7HHgXdXoyQXeAtPzdMSum7HJCrdbCrdzJyc24wIA/formResponse" method="post">
+<form action="https://docs.google.com/forms/d/e/safdalfjaISv65R6J11H0o_7FadflUm/formResponse" method="post">
       <label>Name*</label>
-      <input type="text" placeholder="Name*" name="entry.1884265043" required>
+      <input type="text" placeholder="Name*" name="entry.895563655" required>
   
       <label>Email Address*</label>
-      <input type="email" placeholder="Email address*" name="entry.448580311" required>
+      <input type="email" placeholder="Email address*" name="entry.772189125" required>
     
-      <label>Size and Quantity </label>
-      <input type="checkbox" placeholder="Small" name=""><input type="checkbox" placeholder="Test" name="">
-      <input type="checkbox" placeholder="Medium" name="">
-      <input type="checkbox" placeholder="Large" name="">
+      <label>Subject</label>
+      <input type="text" placeholder="Subject" name="entry.203645991">
     
       <label>Message*</label>
-      <textarea rows="5" placeholder="Message*" name="" required></textarea>
+      <textarea rows="5" placeholder="Message*" name="entry.190021963" required></textarea>
      
       <button type="submit">Send</button>
 </form>
