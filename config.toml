@@ -12,12 +12,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   # set to change date format
   # dateFormat = "2.1.2006"
 
-[params.forms]
-formID="1FAIpQLSdnX3gQaf7HHgXdXoyQXeAtPzdMSum7HJCrdbCrdzJyc24wIA/"
-Name="entry.895563655"
-Email="entry.772189125"
-Subject="entry.203645991"
-Message="entry.190021963"
 
 # Below parameters can be set to override default post settings
 # [params.posts]
