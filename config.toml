@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [params.forms]
 formID="1FAIpQLSdnX3gQaf7HHgXdXoyQXeAtPzdMSum7HJCrdbCrdzJyc24wIA/"
 Name="entry.895563655"
-Email Address="entry.772189125"
+Email="entry.772189125"
 Subject="entry.203645991"
 Message="entry.190021963"
 
