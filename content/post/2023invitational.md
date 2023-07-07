@@ -42,4 +42,4 @@ Entry fee include Greens Fee with Golf Car, Range Balls & Prize Fee (for both da
 
 **Bunker Bar & Grill Specials - $2 Domestics, $3 Wells, $3 Hotdogs and $5 Burgers**
 
-## [Click Here to Register](https://forms.gle/VQrrQRbK4467TmMp9)
+## [Click Here to Register](https://forms.gle/cWtL2FEcKP3pjyRF6)
