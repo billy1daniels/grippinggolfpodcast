@@ -36,9 +36,9 @@ Prizes will be awarded to 4 places in each division. (Subject to change - based 
 
 Entry fee include Greens Fee with Golf Car, Range Balls & Prize Fee (for both days)
 
-- Sycamore, Oak & Corporate Members - **$85** ($42.50 per day)
-- Twilight & Cypress Members - **$130** ($65 per day)
-- Non-members - **$170** ($85 per day)
+- Sycamore, Oak & Corporate Members - **$85**
+- Twilight & Cypress Members - **$125**
+- Non-members - **$165**
 
 **Bunker Bar & Grill Specials - $2 Domestics, $3 Wells, $3 Hotdogs and $5 Burgers**
 
